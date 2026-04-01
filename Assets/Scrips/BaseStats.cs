@@ -30,6 +30,6 @@ public class BaseStats
 
     ~BaseStats()
     {
-        Debug.Log("ELIMINADON XD");
+        Debug.Log("ELIMINADO XD");
     }
 }
